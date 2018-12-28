@@ -1,0 +1,11 @@
+walnut/venv
+walnut/.idea
+walnut/db/*.sqlite3
+walnut/**/migrations/**
+walnut/!**/migrations
+walnut/!**/migrations/__init__.py
+walnut/*.pyc
+walnut/*.pyo
+walnut/*.mo
+walnut-vue/node_modules/
+walnut-vue/dist/
